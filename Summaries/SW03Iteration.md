@@ -18,12 +18,12 @@ Java kennt drei verschiedene Schleifen-Anweisungen:
 
 public class WhileLoopExample {
     public static void main(String[] args) {
-        int count = 1; // Initialize a counter variable
+        int count = 1; // Deklarieren der Zählervariable
 
-        // This while loop will run as long as 'count' is less than or equal to 5
+        // This while-Schleife läuft so lange bis count nicht mehr <= 5 ist
         while (count <= 5) {
             System.out.println("Count: " + count);
-            count++; // Increment the counter in each iteration
+            count++; // Erhöhen der Zählervariable um
         }
 
         System.out.println("Loop finished.");
