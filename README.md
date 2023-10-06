@@ -5,5 +5,5 @@ Files/Summaries for the module OOP
 
 [Zusammenfassungen nach Semesterwochen](https://github.com/fehlixus/OOP/tree/main/Summaries)
 
-[Übungen](todo)
+[Übungen](https://github.com/fehlixus/OOP/tree/main/%C3%9Cbungen)
 
